@@ -1,7 +1,7 @@
 MiniSplit
 ---
 6×3 +3keys Split Keyboard
-![MiniSplit-PCB1](https://pbs.twimg.com/media/DS_NiDOVAAA4gi6.jpg:large "MiniSplit-PCB-3D")
+![MiniSplit-PCB1](https://pbs.twimg.com/media/DUSodzZWsAI0thU.jpg:large "MiniSplit-PCB-3D")
 ![MiniSplit-PCB2](https://i.imgur.com/GCURRhH.jpg "MiniSplit-Test_Build")
 
 Parts
