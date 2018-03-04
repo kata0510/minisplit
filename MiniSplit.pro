@@ -1,4 +1,4 @@
-update=2018年01月07日 日曜日 19:50:04
+update=2018年02月27日 火曜日 23:41:45
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -58,30 +56,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/Users/kata0510/Documents/lets-split-pcb-hs-cherry-master/component
-LibName31=/Users/kata0510/Documents/lets-split-pcb-hs-cherry-master/lets_split-cache
-LibName32=/Users/kata0510/Documents/lets-split-pcb-hs-cherry-master/local
-LibName33=/Users/kata0510/Downloads/Ergo42-master/ergo42/promicro_library/promicro
-LibName34=some-kicad-components-master/lib/ir2153
-LibName35=some-kicad-components-master/lib/irf7103
-LibName36=some-kicad-components-master/lib/linStab-(1-GND,Adj,2-Out,3-in)
-LibName37=some-kicad-components-master/lib/lm2596
-LibName38=some-kicad-components-master/lib/lm2621
-LibName39=some-kicad-components-master/lib/mbi6651
-LibName40=some-kicad-components-master/lib/MC34063
-LibName41=some-kicad-components-master/lib/mcp73831
-LibName42=some-kicad-components-master/lib/microsd-sdio-cd
-LibName43=some-kicad-components-master/lib/microsd-sdio
-LibName44=some-kicad-components-master/lib/ncp551
-LibName45=some-kicad-components-master/lib/ncp1450
-LibName46=some-kicad-components-master/lib/nrf24l01
-LibName47=some-kicad-components-master/lib/pam8403
-LibName48=some-kicad-components-master/lib/pam8610
-LibName49=some-kicad-components-master/lib/rfid-rc522-module
-LibName50=some-kicad-components-master/lib/rgb-led
-LibName51=some-kicad-components-master/lib/stm32
-LibName52=some-kicad-components-master/lib/tl494
-LibName53=some-kicad-components-master/lib/tsop4856
-LibName54=some-kicad-components-master/lib/usblc6-4
-LibName55=ergo42-cache
-LibName56=/Users/kata0510/Downloads/lets-split-pcb-hs-cherry-master/component
+[general]
+version=1
