@@ -1,16 +1,12 @@
-(module MXALPS_FLIP_HOLES (layer F.Cu) (tedit 5A67194A)
+(module minisplit2-footprint:MX_FLIP_HOLES (layer F.Cu) (tedit 5A9AF0DF)
   (descr MXALPS)
   (tags MXALPS)
-  (fp_text reference REF** (at 0 3.048) (layer B.SilkS) hide
+  (fp_text reference SW1 (at 0 3.048) (layer B.SilkS) hide
     (effects (font (thickness 0.3048)) (justify mirror))
   )
   (fp_text value SW_PUSH (at -3.5 9) (layer B.SilkS) hide
     (effects (font (thickness 0.3048)) (justify mirror))
   )
-  (fp_line (start -7.75 6.4) (end -7.75 -6.4) (layer Dwgs.User) (width 0.3))
-  (fp_line (start -7.75 6.4) (end 7.75 6.4) (layer Dwgs.User) (width 0.3))
-  (fp_line (start 7.75 6.4) (end 7.75 -6.4) (layer Dwgs.User) (width 0.3))
-  (fp_line (start 7.75 -6.4) (end -7.75 -6.4) (layer Dwgs.User) (width 0.3))
   (fp_line (start -7.62 -7.62) (end 7.62 -7.62) (layer Dwgs.User) (width 0.3))
   (fp_line (start 7.62 -7.62) (end 7.62 7.62) (layer Dwgs.User) (width 0.3))
   (fp_line (start 7.62 7.62) (end -7.62 7.62) (layer Dwgs.User) (width 0.3))
