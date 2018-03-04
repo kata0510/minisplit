@@ -1,7 +1,7 @@
 minisplit
 ---
 6×4 +1keys Split Keyboard
-![minisplit-PCB1](https://i.imgur.com/9KTm9Tt.png "MiniSplit-PCB") 
+![minisplit-PCB1](https://i.imgur.com/zwgArQV.png "MiniSplit-PCB") 
 PCBSize:132mm×75mm
 
 Parts
